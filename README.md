@@ -1,6 +1,8 @@
 # xtbreakcoint_r
 Panel cointegration test with structural breaks and cross-section dependence Use xtbreakcoint With (In) R Software
 
+https://www.youtube.com/watch?v=Okk5HjXYLCY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
